@@ -1,2 +1,2 @@
 # ejhagee.github.io
-Github Web Page
+A personal profile webpage.
